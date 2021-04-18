@@ -24,7 +24,7 @@ Please don't create GitHub issues for security issues. Instead, please send an e
 
 ### I am a student. Can I work on a feature for academic credits?
 
-Yes. Please note we are unable to commit to any timelines or paperwork that may be a requirement by your college or university. We receive many pull-requests and code contributions by volunteer developers, and we respect their time and efforts. Out of respect for all of our other contributors, we will not give any PR special priority just because it happens to be school-related.
+Yes - Please note we are unable to commit to any timelines or paperwork that may be a requirement by your college or university. We receive many pull-requests and code contributions by volunteer developers, and we respect their time and efforts. Out of respect for all of our other contributors, we will not give any PR special priority just because it happens to be school-related.
 
 We request you to plan ahead and work on code contributions with this in mind.
 
@@ -53,7 +53,7 @@ We typically do not assign issues to anyone other than long-time contributors. I
    - Did you include tests?
    - Did you catch all usecases?
    - Did you ensure all tests pass, and confirm everything works locally?
-3. Finally, we give priority to pull requests which follow our recommended guidelines.
+3. Finally, we give priority to pull requests which follow our recommended guidelines:
    - Did you follow the pull request checklist?
    - Did you give your pull request a meaningful title?
 
